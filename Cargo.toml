@@ -1,0 +1,11 @@
+[package]
+name = "tokio-test"
+version = "0.1.0"
+authors = ["Tobias Herber <tobihrbr@gmail.com>"]
+
+[dependencies]
+tokio = "0.1"
+
+[[bin]]
+name = "tokio-test"
+path = "src/lib.rs"
