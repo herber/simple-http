@@ -1,5 +1,5 @@
 [package]
-name = "tokio-test"
+name = "http-playground"
 version = "0.1.0"
 authors = ["Tobias Herber <tobihrbr@gmail.com>"]
 
@@ -7,5 +7,5 @@ authors = ["Tobias Herber <tobihrbr@gmail.com>"]
 tokio = "0.1"
 
 [[bin]]
-name = "tokio-test"
+name = "http-playground"
 path = "src/lib.rs"
