@@ -1,6 +1,6 @@
 <h1 align="center">HTTP Playground</h1>
 
-<p align="center">A simple http server written in rust. <br>TCP Stuff is handled by [Tokio](http://tokio.rs)</p>
+<p align="center">A simple http server written in rust. <br>TCP Stuff is handled by <a href="http://tokio.rs">Tokio</a></p>
 
 ## Install
 
